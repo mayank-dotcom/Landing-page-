@@ -4,14 +4,14 @@
 
 Welcome to the Frontend Landing Page project! This project showcases my skills as an aspiring front-end web developer. The landing page is designed to create a visually appealing and engaging user experience, serving as an introduction to the website it represents.
 
-##🛠 Technologies Used:
+## 🛠 Technologies Used:
 
 - <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 - <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-- JavaScript: Adding interactivity and dynamic elements.
-- [Any additional libraries/frameworks used]
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
-##✨✨ Features:
+## ✨✨ Features:
 
 1. **Responsive Design:** The landing page is designed to be responsive, ensuring a seamless user experience across various devices, including desktops, tablets, and mobile phones.
 
