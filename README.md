@@ -1,4 +1,4 @@
-#🚀🚀 Project Title: Frontend Landing Page
+# 🚀🚀 Project Title: Frontend Landing Page
 
 ## Overview:
 
@@ -29,7 +29,7 @@ Welcome to the Frontend Landing Page project! This project showcases my skills a
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/mayank-dotcom/Landing-page-.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
